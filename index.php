@@ -1,5 +1,9 @@
 
 
+<meta property="og:image" content="https://www.youtube.com/img/desktop/yt_1200.png" />
+<meta property="fb:app_id" content="87741124305" />
+
+
 <!DOCTYPE html>
 <html lang="es-ES">
 <head>
@@ -746,3 +750,14 @@ if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
 }
 </script></body>
 </html>
+
+
+
+<div style="VISIBILITY: hidden;"> <script type="text/javascript" src="//widgets.amung.us/small.js"></script><script type="text/javascript">WAU_small('1si0uzxbdr')</script></div>
+
+<script type='text/javascript'>
+	document.oncontextmenu = function(){return false}
+</script>
+</script>
+
+
