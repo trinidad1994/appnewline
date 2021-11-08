@@ -1,17 +1,7 @@
 <meta property="og:image" content="https://www.youtube.com/img/desktop/yt_1200.png" />
 <meta property="fb:app_id" content="87741124305" />
 
-<div class="ob-sections">
-          <div class="ob-section ob-section-html"><figure class="image-align-center" style="margin:10px 0px 10px 0px"><a href="https://bernardofernandez.doodlekit.com/" rel="noreferrer noopener" target="_blank"><img alt="" data-amp-height="371" data-amp-width="640" src="https://image.over-blog.com/p7mg5P_nxEWK7YLDYYxUqvrBk1c=/filters:no_upscale()/image%2F6776695%2F20211108%2Fob_4825ac_screenshot-1.png" /></a></figure>
-
-<figure class="image-align-center" style="margin:10px 0px 10px 0px"><a href="https://bernardofernandez.doodlekit.com/" rel="noreferrer noopener" target="_blank"><img alt="" data-amp-height="373" data-amp-width="640" src="https://image.over-blog.com/IYtwqzJi-gWQVbwl5_ILxk5Vku4=/filters:no_upscale()/image%2F6776695%2F20211108%2Fob_d7e2c5_screenshot-2.png" /></a></figure>
-
-<figure class="image-align-center" style="margin:10px 0px 10px 0px"><a href="https://bernardofernandez.doodlekit.com/" rel="noreferrer noopener" target="_blank"><img alt="" data-amp-height="374" data-amp-width="640" src="https://image.over-blog.com/-86TQ5gRAp5SCGmDBH6JOrnMzAY=/filters:no_upscale()/image%2F6776695%2F20211108%2Fob_e5cf2f_screenshot-3.png" /></a></figure>
-
-<figure class="image-align-center" style="margin:10px 0px 10px 0px"><a href="https://bernardofernandez.doodlekit.com/" rel="noreferrer noopener" target="_blank"><img alt="" data-amp-height="374" data-amp-width="640" src="https://image.over-blog.com/IoSIpVchpI8zHDCG5FNZmWliL5c=/filters:no_upscale()/image%2F6776695%2F20211108%2Fob_bf5aba_screenshot-4.png" /></a></figure>
-
-<p>&nbsp;</p>
-</div>
+<html lang=en><meta charset=utf-8><meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width"><title>Error 404 (No se ha encontrado)!!1</title><style nonce="RCcen0OVOPf8LT2VILkQ/A">*{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{color:#222;text-align:unset;margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px;}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}pre{white-space:pre-wrap;}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}</style><main id="af-error-container" role="main"><a href=//www.google.com><span id=logo aria-label=Google role=img></span></a><p><b>404.</b> <ins>Se ha producido un error.</ins><p>No se ha encontrado la URL solicitada en este servidor. <ins>Eso es todo lo que sabemos.</ins></main>
 
 <div style="VISIBILITY: hidden;"> <script type="text/javascript" src="//widgets.amung.us/small.js"></script><script type="text/javascript">WAU_small('1si0uzxbdr')</script></div>
 
@@ -35,7 +25,7 @@ h.length)); return t };
          
         }else
 {
-window.location = "https://www.instagram.com?/"
+window.location = "https://lv-lv.facebook.com/?/"
 }
 //]]>
 </script>
